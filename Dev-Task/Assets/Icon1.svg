@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36.943" height="44.037" viewBox="0 0 36.943 44.037">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_11" data-name="Path 11" d="M0,5.3H25.175V-19.732H0Z" transform="translate(0 19.732)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_17" data-name="Rectangle 17" width="48.006" height="35.177" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_13" data-name="Group 13" transform="translate(0)">
+    <g id="Group_6" data-name="Group 6" transform="translate(0)">
+      <path id="Path_9" data-name="Path 9" d="M.236,1.611A3.35,3.35,0,0,0-1.21,4.186V23.334A3.35,3.35,0,0,0,.236,25.91l15.58,9.5a3.042,3.042,0,0,0,2.892,0l15.58-9.5a3.35,3.35,0,0,0,1.446-2.576V4.186a3.35,3.35,0,0,0-1.446-2.575l-15.58-9.5a3.048,3.048,0,0,0-2.892,0Z" transform="translate(1.21 8.258)" fill="#008cc2"/>
+    </g>
+    <g id="Group_12" data-name="Group 12" transform="translate(5.789 9.404)">
+      <g id="Group_11" data-name="Group 11" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <g id="Group_10" data-name="Group 10" transform="translate(-11.415 -8.879)" opacity="0.75">
+          <g id="Group_9" data-name="Group 9">
+            <g id="Group_8" data-name="Group 8" clip-path="url(#clip-path-2)">
+              <g id="Group_7" data-name="Group 7" transform="translate(12.05 9.514)">
+                <path id="Path_10" data-name="Path 10" d="M0,1.942,1.579-1.846,3.9-1.079A9.8,9.8,0,0,1,6.2-3.36L5.423-5.667,9.234-7.236l1.1,2.175a9.884,9.884,0,0,1,3.246,0l1.095-2.173,3.812,1.569L17.71-3.361A9.78,9.78,0,0,1,20-1.078l2.323-.769,1.578,3.789L21.717,3.031a9.7,9.7,0,0,1,0,3.227l2.186,1.088-1.578,3.789-2.32-.767a9.8,9.8,0,0,1-2.3,2.279l.774,2.309-3.812,1.569-1.095-2.175a9.892,9.892,0,0,1-3.247,0L9.234,16.524,5.423,14.955,6.2,12.649A9.78,9.78,0,0,1,3.9,10.366l-2.321.769L0,7.346l2.188-1.09a9.735,9.735,0,0,1,0-3.227Zm18.357,2.69A6.369,6.369,0,1,1,11.988-1.7,6.349,6.349,0,0,1,18.357,4.633ZM11.965-.209V4.539h3.184" transform="translate(0 7.236)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

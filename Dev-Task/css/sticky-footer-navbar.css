@@ -1,0 +1,70 @@
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+main > .container {
+  padding: 60px 15px 0;
+}
+
+
+.bg-image {
+  background-image: url('Image-Larger.jpg');
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /*  font-family: 'GOTHICB'; */
+}
+
+
+.navbar .nav-link {
+  padding: .25rem 0;
+  font-weight: 700;
+  color: rgba(255, 255, 255, .5);
+  background-color: transparent;
+  border-bottom: .25rem solid transparent;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+  border-bottom-color: rgba(255, 255, 255, .25);
+}
+
+.navbar .nav-link + .nav-link {
+  margin-left: 1rem;
+}
+
+.navbar .active {
+  color: #fff;
+  border-bottom-color: #fff;
+}
+
+.top-buffer { 
+  margin-top:400px;
+
+}
+
+
+.card {
+  border-top: 5px solid rgb(70, 145, 206);
+
+}
+
+@media (min-width: 992px){
+  .navbar li {
+      margin-left : 0.4em;
+      margin-right : 0.4em;
+  }
+}
+
+.navbar-btn
+{
+  color: #4294af;
+  font-weight: bold;
+}
+
+
+/*  font-family: 'GOTHICB';  @font-face {
+  font-family: 'GOTHICB';
+  src: url('Assets/Century Gothic/GOTHICB.ttf');
+}*/
