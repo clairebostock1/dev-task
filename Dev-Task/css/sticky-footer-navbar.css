@@ -11,7 +11,7 @@ main > .container {
   background-image: url('Image-Larger.jpg');
   height: 100%; 
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-size: cover;
   /*  font-family: 'GOTHICB'; */
 }
